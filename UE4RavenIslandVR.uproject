@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
