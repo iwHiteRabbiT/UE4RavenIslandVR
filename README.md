@@ -6,20 +6,20 @@
 YouTube Links
 
 ### Advanced Lake & Ocean Wave Shader
-<a href="https://youtu.be/tY_X2Fmhx8s"  target="_blank"><img src="http://img.youtube.com/vi/tY_X2Fmhx8s/0.jpg" alt="Ocean Waves" title="Ocean Waves"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tY_X2Fmhx8s/0.jpg)](https://youtu.be/tY_X2Fmhx8s "Ocean Waves")
 
-<a href="https://youtu.be/Wnha38wiKag"  target="_blank"><img src="http://img.youtube.com/vi/Wnha38wiKag/0.jpg" alt="Mossy Lake" title="Mossy Lake"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wnha38wiKag/0.jpg)](https://youtu.be/Wnha38wiKag "Mossy Lake")
 
 ### Niagara FXs
-<a href="https://youtu.be/GdqlVw-Yrtk"  target="_blank"><img src="http://img.youtube.com/vi/GdqlVw-Yrtk/0.jpg" alt="Raven Lightning" title="Raven Lightning"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GdqlVw-Yrtk/0.jpg)](https://youtu.be/GdqlVw-Yrtk "Raven Lightning")
 
-<a href="https://youtu.be/2cjzaqHMBms"  target="_blank"><img src="http://img.youtube.com/vi/2cjzaqHMBms/0.jpg" alt="Magical Trees" title="Magical Trees"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/2cjzaqHMBms/0.jpg)](https://youtu.be/2cjzaqHMBms "Magical Trees")
 
 ### Grass Biome
-<a href="https://youtu.be/EsT1VrlyDpA"  target="_blank"><img src="http://img.youtube.com/vi/EsT1VrlyDpA/0.jpg" alt="Grass Biome" title="Grass Biome"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/EsT1VrlyDpA/0.jpg)](https://youtu.be/EsT1VrlyDpA "Grass Biome")
 
 ### Biomes
-<a href="https://youtu.be/tkRHZmR7jcM"  target="_blank"><img src="http://img.youtube.com/vi/tkRHZmR7jcM/0.jpg" alt="Biomes" title="Biomes"></a>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tkRHZmR7jcM/0.jpg)](https://youtu.be/tkRHZmR7jcM "Biomes")
 
 ## License
 GPL-3.0
